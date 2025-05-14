@@ -1,7 +1,7 @@
 # DawamHR
 # Dawam HR & Payroll management Software
 
-![Dawam HR & Payroll management](https://via.placeholder.com/1200x400.png?text=Arc+Workforce+Management+Software)
+![Dawam HR & Payroll management](/pictures/web-shifts.png)
 
 Dawam HR & Payroll management is a modern, cloud-based workforce management solution designed to help industries, factories, and businesses streamline employee time tracking, scheduling, attendance, and payroll processes.
 
@@ -39,8 +39,6 @@ Built on cutting-edge technologies, Dawam HR & Payroll management provides a sea
 |-----------------|----------------|--------------|------------|----------------------|
 | Vue.js 3        | .NET 8 (C#)    | PostgreSQL   | Flutter     | Azure Cloud          |
 
-### Architecture Overview
-![Architecture](https://via.placeholder.com/1200x600.png?text=Arc+Workforce+Management+Architecture+Overview)
 
 ---
 
@@ -50,7 +48,10 @@ Built on cutting-edge technologies, Dawam HR & Payroll management provides a sea
 ![Schedule Management](https://via.placeholder.com/1200x700.png?text=Web+App+-+Schedule+Management)
 
 ### Mobile App - Employee Self Service
-![Mobile ESS](https://via.placeholder.com/500x900.png?text=Mobile+App+-+Employee+Self+Service)
+![Mobile ESS](/pictures/mobile-home.jpg)
+![Mobile ESS](/pictures/mobile-clock-in.jpg)
+![Mobile ESS](/pictures/mobile-clock-in-success.jpg)
+![Mobile ESS](/pictures/mobile-schedule.jpg)
 
 ---
 
@@ -60,7 +61,7 @@ Built on cutting-edge technologies, Dawam HR & Payroll management provides a sea
 - Azure PostgreSQL Flexible Server for database.
 - Azure Blob Storage for documents and reports.
 - Azure Monitor and Application Insights for logging and monitoring.
-- Azure Active Directory for authentication and authorization.
+- Dedicated Azure App Service with .net app for authentication and authorization.
 
 ---
 
@@ -74,29 +75,10 @@ Built on cutting-edge technologies, Dawam HR & Payroll management provides a sea
 
 ---
 
-## 👨‍💻 My Role
-
-As part of the core engineering team, I contributed to:
-- Designing and implementing backend APIs in .NET 8.
-- Architecting the database schema using PostgreSQL.
-- Building interactive web components with Vue.js 3.
-- Developing mobile-first employee experience using Flutter.
-- Deploying and monitoring the solution on Azure Cloud.
-- Leading UI/UX research and improvements.
-
----
-
 ## 📄 Summary
 
 Dawam HR & Payroll management is a powerful, scalable, and user-centric solution that brings digital transformation to workforce management for the modern workplace.
 
-> **Built with love using Azure, .NET 8, PostgreSQL, Vue.js 3, and Flutter.**
+> *Built using Azure, .NET 8, PostgreSQL, Vue.js 3, Github Actions, and Flutter.*
 
----
-
-## 📬 Contact
-
-If you'd like to know more about Dawam HR & Payroll management or discuss potential collaborations, feel free to contact me:
-- 📧 Email: yourname@example.com
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 
