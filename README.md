@@ -1,4 +1,3 @@
-# DawamHR
 # Dawam HR & Payroll management Software
 
 ![Dawam HR & Payroll management](/pictures/web-shifts.png)
